@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+<!-- question: 48  -->
+  <question type="matching">
+    <name>
+      <text>2025-11-30-U02-G04-3</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Empareja cada algoritmo criptográfico con la categoría o función principal dentro del proceso de conexión SSH:</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <shuffleanswers>false</shuffleanswers>
+    <correctfeedback format="html">
+      <text><![CDATA[<p>Respuesta correcta</p>]]></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text><![CDATA[<p>Respuesta parcialmente correcta.</p>]]></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text><![CDATA[<p>Respuesta incorrecta.</p>]]></text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <subquestion format="html">
+      <text><![CDATA[<p><span class="NormalTextRun SCXW8948709 BCX0">AES</span></p>]]></text>
+      <answer>
+        <text>Cifrado Simétrico</text>
+      </answer>
+    </subquestion>
+    <subquestion format="html">
+      <text><![CDATA[<p><span class="NormalTextRun SpellingErrorV2Themed SpellingErrorHighlight SCXW173470953 BCX0">Diffie</span><span class="NormalTextRun SCXW173470953 BCX0">-Hellman (DH)</span></p>]]></text>
+      <answer>
+        <text>Intercambio de Claves (KEX)</text>
+      </answer>
+    </subquestion>
+    <subquestion format="html">
+      <text><![CDATA[<p><span class="NormalTextRun SCXW241188960 BCX0">RSA</span></p>]]></text>
+      <answer>
+        <text>Autenticación de Clave Pública</text>
+      </answer>
+    </subquestion>
+    <subquestion format="html">
+      <text><![CDATA[<p><span class="NormalTextRun SCXW106242562 BCX0">HMAC-SHA2</span></p>]]></text>
+      <answer>
+        <text>Códigos de Autenticación de Mensajes (MAC)</text>
+      </answer>
+    </subquestion>
+    <subquestion format="html">
+      <text><![CDATA[<p><span class="NormalTextRun SCXW197490533 BCX0">Telnet</span></p>]]></text>
+      <answer>
+        <text>Algoritmos heredados inseguros reemplazados por SSH</text>
+      </answer>
+    </subquestion>
+  </question>
+
+<!-- question: 44  -->
+  <question type="multichoice">
+    <name>
+      <text>2025-11-30-U02-G04-1</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>¿Cuál es la función principal del protocolo Secure Shell (SSH) según la definición de la tecnología?</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html">
+      <text><![CDATA[<p>Respuesta correcta</p>]]></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text><![CDATA[<p>Respuesta parcialmente correcta.</p>]]></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text><![CDATA[<p>Respuesta incorrecta.</p>]]></text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Transmitir contraseñas en texto plano para compatibilidad con protocolos heredados.</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Operar exclusivamente en el puerto TCP 80 para la transferencia de archivos.</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p>Proporcionar un canal seguro garantizando la confidencialidad e integridad de los datos intercambiados mediante una arquitectura cliente-servidor.</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Ser un protocolo monolítico que realiza la transferencia de archivos y la autenticación simultáneamente.</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Remplazar el protocolo Telnet, operando en la capa de conexión (SSH-CONN) como única función.</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 46  -->
+  <question type="multichoice">
+    <name>
+      <text>2025-11-30-U02-G04-2</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>¿Cuáles de los siguientes son tipos de algoritmos criptográficos utilizados por SSH en su proceso de conexión? (Elija 3)</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>false</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html">
+      <text><![CDATA[<p>Respuesta correcta</p>]]></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text><![CDATA[<p>Respuesta parcialmente correcta.</p>]]></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text><![CDATA[<p>Respuesta incorrecta.</p>]]></text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Algoritmos de Codificación de Video (Video Encoding).</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="33.33333" format="html">
+      <text><![CDATA[<p>Intercambio de Claves (Key Exchange - KEX).</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="33.33333" format="html">
+      <text><![CDATA[<p>Cifrado Simétrico (Symmetric Encryption).</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Algoritmos de Compresión de Datos (Data Compression).</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="33.33333" format="html">
+      <text><![CDATA[<p>Autenticación de Clave Pública (Public Key Authentication).</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 50  -->
+  <question type="shortanswer">
+    <name>
+      <text>2025-11-30-U02-G04-4</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>¿Qué tipo de cifrado utiliza SSH, una vez establecida la clave de sesión, para cifrar el flujo de datos real?</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <usecase>0</usecase>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>Simétrico</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>Cifrado simétrico</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>Simetrico</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>Cifrado simétrico</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 52  -->
+  <question type="truefalse">
+    <name>
+      <text>2025-11-30-U02-G04-5</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>El protocolo Secure Shell (SSH) se diseñó para permitir la operación segura de servicios de red sobre una red insegura.</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>1.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>true</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>false</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+</quiz>
